@@ -71,6 +71,10 @@ button {
    width: 211px;
    height: 39px;
    border-radius: 6px; 
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: #55F991;
 }
 
 #passwords {
